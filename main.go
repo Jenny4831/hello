@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/http"
 
-	"hello/greeting" // import greeting the path is like module/package name
+	"github.com/Jenny4831/hello/greeting" // import greeting the path is like module/package name
 )
 
 func main() {
