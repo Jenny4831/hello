@@ -1,4 +1,4 @@
-module github.com/Jenny4831/hello
+module hello
 
 go 1.20
 
